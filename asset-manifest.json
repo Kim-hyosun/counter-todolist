@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/counter-todolist/static/js/main.bddd24bf.js",
+    "index.html": "/counter-todolist/index.html",
+    "main.bddd24bf.js.map": "/counter-todolist/static/js/main.bddd24bf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bddd24bf.js"
+  ]
+}
