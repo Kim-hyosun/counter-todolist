@@ -1,4 +1,6 @@
-# REDUX연습 (react를 다루는 기술)
+# REDUX연습 
+
+(react를 다루는 기술)
 
 ---
 
